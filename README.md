@@ -17,6 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/santiago-haquin-lo-valvo-866717256/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/santihaquin/)
 
 ### 📈 Mis estadísticas de GitHub
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoHaquin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoHaquin&layout=compact&theme=radical)
 
 
