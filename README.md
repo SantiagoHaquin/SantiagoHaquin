@@ -11,6 +11,7 @@
 - **Lenguajes:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white)
 - **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=TailwindCSS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white)
 - **Backend:** ![C#](https://img.shields.io/badge/-C%23-239120?logo=CSharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=.net&logoColor=white)
+- - **Bases de datos** ![MySQL](https://img.shields.io/badge/-MySQL-F05032?logo=MySQL&logoColor=blue) 
 - **Otros:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=VisualStudioCode&logoColor=white)
 
 ### 🌍 Conéctate conmigo
