@@ -1,7 +1,7 @@
 ## Hola, soy Santiago 👋
 
 ### 💻 Sobre mí
-- 🔭 Actualmente trabajando en un proyecto web utilizando **React**, **.NET** y **Tailwind CSS**.
+- 🔭 Actualmente trabajando en un proyecto web utilizando **React**, **.NET** . **Tailwind CSS** y **MySQL**
 - 🎓 Estudiante de **Tecnicatura Universitaria en Programación** en la **UTN**.
 - 🔍 En búsqueda de incorporarme a un equipo de trabajo donde pueda aportar mis conocimientos y seguir aprendiendo.
 - 📫 Cómo contactarme: **santihaqun321@gmail.com**
