@@ -3,7 +3,7 @@
 ### 💻 Sobre mí
 - 🔭 Actualmente estoy trabajando en un proyecto web utilizando React, .NET y Tailwind CSS.
 - 🏢Estudiante de la Tecnicatura Universitaria en Programación en la UTN.
-- 🔍 Estoy en busca de incorporarme a un equipo de trabajo para poder aportar mis conocimientos y seguir aprendiendo
+- 🔍 Estoy en busca de incorporarme a un equipo de trabajo donde pueda aportar mis conocimientos y seguir aprendiendo
 - 📫 Cómo contactarme: **santihaqun321@gmail.com**
 
 
